@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 	"net/http"
-	"REST-API/handlers"
-	"REST-API/data"
+	"github.com/saurabhsisodia/product-API/handlers"
+	"github.com/saurabhsisodia/product-API/data"
 	"os"
 	
 	"github.com/gorilla/mux"

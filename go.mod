@@ -1,6 +1,7 @@
-module REST-API
+module github.com/saurabhsisodia/product-API
 
 go 1.17
+
 
 require (
 	github.com/felixge/httpsnoop v1.0.1 // indirect

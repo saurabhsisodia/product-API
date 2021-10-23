@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"context"
 
-	"REST-API/data"
+	"github.com/saurabhsisodia/product-API/data"
 	"encoding/json"
 	"github.com/gorilla/mux"
 	currency "github.com/saurabhsisodia/gRPC/protos/currency"
